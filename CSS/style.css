@@ -4,7 +4,7 @@
     margin-bottom: 8px;
     box-shadow: rgb(85, 84, 84) 5px  3px 3px;
     color: rgb(250, 250, 250);
-    border-radius: 5px;
+    
     
     
 }
@@ -34,7 +34,7 @@ i{
     box-shadow: rgb(85, 84, 84) 5px  3px 3px;
     border: 0px;
     margin-bottom: 8px;
-    border-radius: 5px;
+    
 
 }
 
@@ -45,7 +45,7 @@ i{
     box-shadow: rgb(85, 84, 84) 5px  3px 3px;
     margin-bottom: 8px;
     padding-top: 5px;
-    border-radius: 5px;
+    
 
     
 }
@@ -105,3 +105,57 @@ i{
     color: #cce7f5;
      
 }
+
+/* Columna de perfil / Experiencia / Estudios */
+
+#col_p_ex_es{
+    padding: 0px 0px;
+    margin-bottom: 8px;
+    width: 712px;
+    margin-left: 8px;
+    box-shadow: rgb(85, 84, 84) 5px  3px 3px;
+    
+    
+    
+    
+  }
+  
+  /* Perfil */
+  
+  #Boton_perfil{
+      background-color: rgb(24, 152, 211);
+      color: rgb(250, 250, 250);
+      border-radius: 0%;
+  }
+  
+  #col_acordion_perfil{
+      border-radius: 0%;
+      
+  }
+      
+  /* Experiencia */ 
+  
+  #Boton_exp{
+      background-color: rgb(24, 152, 211);
+      color: rgb(250, 250, 250);
+      border-radius: 0%;
+  }
+  
+  #col_acordion_exp{
+      border-radius: 0%;
+      
+  }
+  
+  /*Estudios*/
+  
+  #Boton_est{
+      background-color: rgb(24, 152, 211);
+      color: rgb(250, 250, 250);
+      border-radius: 0%;
+  }
+  
+  #col_acordion_est{
+      border-radius: 0%;
+      
+  }
+  
